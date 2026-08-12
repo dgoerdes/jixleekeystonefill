@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120100
 ## Title: |cff00ccffJixlee Keystone Fill|r
 ## Notes: Shows Mythic+ keystones of all party members and auto-fills the Group Finder when one keystone is clicked.
 ## Notes-deDE: Zeigt Mythic+ Schlüsselsteine aller Gruppenmitglieder und füllt den Gruppenfinder bei Klick auf einen Schlüsselstein automatisch aus.
